@@ -1,4 +1,9 @@
-﻿using System;
+/*
+    Isaac A. Gibbs
+    2/24/2014
+    Game of Life
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
