@@ -1,9 +1,8 @@
-﻿/* Isaac Gibbs  
- * 2/24/2014
- * Life Game Final
- * CIS 310
+/*
+    Isaac A. Gibbs
+    2/24/2014
+    Game of Life
 */
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
